@@ -1,0 +1,202 @@
+[
+    {
+        "idx": 0,
+        "output": "To determine if an object is valid, we can use the following algorithm:\n\n1. Check if the input object is a string. If it is not a string, return an error message.\n\n2. Check if the input string contains any special characters. If it does, return an error message.\n\n3. Check if the input string is all lowercase letters. If it is, return an error message.\n\n4. Check if the input string is all uppercase letters. If it is, return an error message.\n\n5. Check if the input string contains any numbers. If it does, return an error message.\n\n6. Check if the input string contains any spaces. If it does, return an error message.\n\n7. Check if the input string contains any punctuation. If it does, return an error message.\n\n8. If the input string passes all the checks, then it is a valid object."
+    },
+    {
+        "idx": 1,
+        "output": "The Federal Reserve System, also known as the Fed, is the central banking system of the United States. It was established in 1913 to provide the country with a stable and flexible monetary system, as well as to promote economic growth and stability.\n\nThe Fed has a number of key functions, including:\n\n1. Conducting monetary policy: The Fed sets interest rates and controls the money supply in order to influence the level of economic activity, inflation, and employment.\n\n2. Supervising banks and financial institutions: The Fed regulates and supervises financial institutions to ensure their safety and soundness, and to protect consumers from fraud and abuse.\n\n3. Promoting the stability of the financial system: The Fed works to ensure the stability of the financial system by monitoring and responding to risks in the financial markets.\n\n4. Providing payment services: The Fed manages the nation's electronic payments system, including the clearing and settling of financial transactions.\n\n5. Promoting consumer protection: The Fed works to ensure that consumers have access to fair and transparent financial services, and to protect them from predatory lending practices.\n\nOverall, the Federal Reserve System plays a crucial role in maintaining the stability and soundness of the U.S. economy and financial system."
+    },
+    {
+        "idx": 2,
+        "output": "1. What is the name of Scooby-Doo's owner?\na) Shaggy\nb) Fred\nc) Daphne\nd) Velma\n\n2. What is the name of the gang's van?\na) Mystery Machine\nb) Mystery Mobile\nc) Mystery Van\nd) Mystery Vehicle\n\n3. What is the name of Scooby-Doo's best friend?\na) Shaggy\nb) Fred\nc) Daphne\nd) Velma\n\n4. What is the name of the villain in the episode \"A Scooby-Doo Valentine\"?\na) The Phantom\nb) The Ghost of Valentine's Past\nc) The Ghost of Valentine's Future\nd) The Ghost of Valentine's Present\n\n5. What is the name of the dog that helps the gang solve the mystery in the episode \"The Witch's Ghost\"?\na) Scooby-Doo\nb) Scrappy-Doo\nc) Shaggy\nd) Daphne\n\n6. What is the name of the villain in the episode \"A Scooby-Doo Christmas\"?\na) The Ghost of Christmas Past\nb) The Ghost of Christmas Future\nc) The Ghost of Christmas Present\nd) The Ghost of Christmas Yet to Come\n\n7. What is the name of the villain in the episode \"A Scooby-Doo Halloween\"?\na) The Ghost of Halloween Past\nb) The Ghost of Halloween Present\nc) The Ghost of Halloween Future\nd) The Ghost of Halloween Yet to Come\n\n8. What is the name of the villain in the episode \"A Scooby-Doo Thanksgiving\"?\na) The Ghost of Thanksgiving Past\nb) The Ghost of Thanksgiving Present\nc) The Ghost of Thanksgiving Future\nd) The Ghost of Thanksgiving Yet to Come\n\n9. What is the name of the villain in the episode \"A Scooby-Doo New Year's Eve\"?\na) The Ghost of New Year's Past\nb) The Ghost of New Year's Present\nc) The Ghost of New Year's Future\nd) The Ghost of New Year's Yet to Come\n\n10. What is the name of the villain in the episode \"A Scooby-Doo Fourth of July\"?\na) The Ghost of the Fourth of July\nb) The Ghost of the Fourth of July Past\nc) The Ghost of the Fourth of July Present\nd) The Ghost of the Fourth of July Future\n\nAnswers:\n1. c) Daphne\n2. a) Mystery Machine\n3. b) Fred\n4. b) The Ghost of Valentine's Past\n5. a) Scooby-Doo\n6. c) The Ghost of Christmas Present\n7. b) The Ghost of Halloween Present\n8. b) The Ghost of Thanksgiving Present\n9. b) The Ghost of New Year's Present\n10. c) The Ghost of the Fourth of July Present"
+    },
+    {
+        "idx": 3,
+        "output": "Here is a strategy for negotiating better wages in the workplace:\n\n1. Research: Before negotiating, it is important to research the current market rate for your position and the average salary range for similar positions in your area. This information will give you a better understanding of what is reasonable to ask for.\n\n2. Prepare: Make a list of your key strengths and achievements that demonstrate your value to the company. This will help you to effectively communicate your worth to your employer.\n\n3. Identify your goals: Determine your desired outcome and what you are willing to accept. This will help you stay focused and avoid getting sidetracked during the negotiation process.\n\n4. Schedule a meeting: Once you have prepared, schedule a meeting with your employer to discuss your salary. Make sure to choose a time when you and your employer are both available and can have an open and honest conversation.\n\n5. Be confident: During the meeting, be confident in your abilities and your worth. Communicate your goals clearly and respectfully, and be willing to negotiate.\n\n6. Be flexible: Be open to compromise and be willing to discuss different options. If the employer is unable to meet your desired salary, consider other benefits such as a signing bonus, additional vacation days, or flexible work hours.\n\n7. Follow up: After the meeting, be sure to follow up with a thank-you note or email. This will show your appreciation and reinforce your commitment to the company.\n\nBy following these steps, you can effectively negotiate for better wages in the workplace. Remember to be confident, prepared, and respectful, and to stay focused on your goals."
+    },
+    {
+        "idx": 4,
+        "output": "Here is a simple implementation of a container class that holds two values:\n\n```java\npublic class Container {\n    private int value1;\n    private int value2;\n\n    public Container(int value1, int value2) {\n        this.value1 = value1;\n        this.value2 = value2;\n    }\n\n    public int getValue1() {\n        return value1;\n    }\n\n    public void setValue1(int value1) {\n        this.value1 = value1;\n    }\n\n    public int getValue2() {\n        return value2;\n    }\n\n    public void setValue2(int value2) {\n        this.value2 = value2;\n    }\n}\n```"
+    },
+    {
+        "idx": 5,
+        "output": "The morning rush hour was in full swing as I boarded the subway. The train was packed, and everyone was trying to find a way to squeeze in. I took a deep breath and squeezed myself into a small space between two passengers. As the train began to move, I noticed a man standing in the center of the car, holding onto the rail with one hand and texting on his phone with the other. I couldn't help but notice the look on his face, as if he was completely unaware of the world around him.\n\nThe subway ride was filled with people coming and going, but I couldn't help but feel a sense of disconnect from the people around me. It was as if we were all on different wavelengths, each lost in our own worlds. I wondered if this was how it was for everyone, or if it was just me who felt this way.\n\nAs the subway ride came to an end, I stepped off the train and into the bustling city. The sounds and smells of the city seemed to awaken me from my own little world. I took a deep breath and smiled, feeling grateful for the moment and the chance to experience life in all its fullness."
+    },
+    {
+        "idx": 6,
+        "output": "Here are the steps to create a classification algorithm for a given dataset of medical images:\n\n1. Data Preprocessing: \nThe first step is to preprocess the data by cleaning, organizing, and preparing it for analysis. This includes performing tasks such as removing missing values, handling outliers, and scaling the data.\n\n2. Feature Extraction:\nFeature extraction is the process of extracting meaningful features from the data. In the case of medical images, this can involve extracting features such as shape, texture, and color.\n\n3. Model Selection:\nNext, we need to select a machine learning model to use for classification. Some popular options include Support Vector Machines, Random Forest, and Neural Networks.\n\n4. Training and Validation:\nThe model is then trained on the data using the features extracted in the previous step. The model is evaluated using a validation set to ensure it is performing well.\n\n5. Hyperparameter Tuning:\nHyperparameter tuning involves adjusting the parameters of the model to improve its performance. This can be done using techniques such as grid search or random search.\n\n6. Testing:\nOnce the model is trained and tuned, it is tested on a new set of data to evaluate its performance.\n\n7. Deployment:\nFinally, the model is deployed in a production environment where it can be used to classify new medical images."
+    },
+    {
+        "idx": 7,
+        "output": "Here is a script that converts text into a musical score:\n\n1. Identify the text you want to convert to a musical score.\n2. Choose a musical instrument to play the score.\n3. Determine the tempo and key of the music.\n4. Write the notes of the text into the score using the chosen instrument's notation.\n5. Add in the rhythms, dynamics, and other musical elements to complete the score.\n\nHere is an example of how to convert the text \"The rain in Spain stays mainly in the plain\" into a musical score:\n\nInstrument: Piano\nTempo: 120 BPM\nKey: C Major\n\nNotes: C D E F G A B C\n\nRhythm: Quarter note, eighth note, quarter note, quarter note, quarter note, quarter note, eighth note, quarter note\n\nDynamics: Piano, forte, piano, piano, forte, forte, piano, piano\n\nFinal Score:\n\nC D E F G A B C\n\nC D E F G A B C\n\nC D E F G A B C\n\nC D E F G A B C\n\nC D E F G A B C\n\nC D E F G A B C\n\nC D E F G A B C"
+    },
+    {
+        "idx": 8,
+        "output": "The sun was shining brightly and the sky was blue."
+    },
+    {
+        "idx": 9,
+        "output": "Name: Jane Doe\nAddress: 123 Main St, Anytown, CA 12345\nPhone Number: (555)-555-5555\nEmail: jdoe@email.com\nObjective: To obtain a position as a chef in a reputable restaurant\n\nEducation\nBachelor of Culinary Arts, University of Anytown, 2018\n\nWork Experience\nChef, Restaurant ABC, Anytown, CA, 2019 - Present\n\u2022\tOversee daily operations of the kitchen\n\u2022\tDevelop and execute menus\n\u2022\tTrain and manage staff\n\u2022\tEnsure food safety and quality\n\nChef, Restaurant XYZ, Anytown, CA, 2018 - 2019\n\u2022\tDeveloped and executed new menu items\n\u2022\tManaged and trained staff\n\u2022\tEnsured food safety and quality\n\nSkills\n\u2022\tCulinary Arts\n\u2022\tMenu Development\n\u2022\tFood Safety and Quality Control\n\u2022\tStaff Management and Training\n\u2022\tCommunication and Leadership"
+    },
+    {
+        "idx": 10,
+        "output": "\"Me eating cake\""
+    },
+    {
+        "idx": 11,
+        "output": "Michelle LaVaughn Robinson Obama is an American lawyer, author, and activist who served as the First Lady of the United States from 2009 to 2017. She was born on January 17, 1964, in Chicago, Illinois, and grew up in a working-class family. Michelle Obama attended Princeton University and Harvard Law School, where she earned her Juris Doctor degree. She then worked as a lawyer and later as the Vice President of Community and External Affairs for the University of Chicago. Michelle Obama married Barack Obama in 1992 and had two daughters with him. She became a prominent figure in American politics and played a key role in her husband's successful presidential campaigns. As First Lady, Michelle Obama focused on initiatives to promote education, health, and wellness. She is known for her advocacy for women and girls, and her efforts to fight against discrimination and inequality. Michelle Obama has authored several bestselling books and continues to be a powerful voice for social change."
+    },
+    {
+        "idx": 12,
+        "output": "1. Evaluate your interests and skills: Before making a career change, it is important to assess your interests, strengths, and skills. This will help you determine what kind of career would be a good fit for you and what steps you need to take to achieve your goals.\n\n2. Research the job market: Take the time to research the job market in your area. Find out what types of jobs are available, what the demand is for different careers, and what the salary range is for the positions you are interested in.\n\n3. Consider the pros and cons: Before making a career change, it is important to consider the pros and cons of the decision. Think about the benefits and challenges of the new career, and how it would impact your personal and professional life.\n\n4. Network: Networking is a key component of finding a new job. Reach out to people in your field, attend industry events, and connect with professionals in your desired field to learn more about the industry and make valuable connections.\n\n5. Seek support: Making a career change can be a stressful and challenging process. Seek support from friends, family, and mentors. They can provide you with valuable advice and encouragement as you make the transition."
+    },
+    {
+        "idx": 13,
+        "output": "This excerpt from a contract outlines the agreement between two companies, Company A and Company B, regarding the provision of financial statements. The key points of this contract are as follows:\n\n1. Company A agrees to provide reasonable assistance to Company B in ensuring the accuracy of the financial statements it provides.\n\n2. This assistance includes allowing Company A reasonable access to personnel and other documents which may be necessary for Company B\u2019s review.\n\n3. Company B agrees to maintain the document provided by Company A in confidence, and will not disclose the information to any third parties without Company A\u2019s explicit permission."
+    },
+    {
+        "idx": 14,
+        "output": "```\n{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"What is the Prestige XL2?\"],\n    \"category_b\": [\"What is the price of the Prestige XL2?\"],\n    \"category_c\": [\"\"]\n}\n```"
+    },
+    {
+        "idx": 15,
+        "output": "{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"Does the Prestige A3+ offer a warranty?\"],\n    \"category_b\": [\"How much is the unit?\"],\n    \"category_c\": [\"\"]\n}"
+    },
+    {
+        "idx": 16,
+        "output": "```\n{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"Is the Epson F2100 a dye sub printer?\"],\n    \"category_b\": [\"How much does it go for?\"]\n}\n```"
+    },
+    {
+        "idx": 17,
+        "output": "{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"What is the Epson F3070?\" \"What are the features of the Epson F3070?\" \"How do I troubleshoot the Epson F3070?\"],\n    \"category_b\": [\"What is the replacement cost for the Epson F3070?\" \"How much does it cost to replace the Epson F3070?\" \"What is the price of the Epson F3070?\"],\n    \"category_c\": [\"How do I troubleshoot the flashing red lights on the Epson F3070?\" \"What is the troubleshooting process for the Epson F3070?\" \"How do I fix the flashing red lights on the Epson F3070?\"]\n}"
+    },
+    {
+        "idx": 18,
+        "output": "{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"What low cost DTF printer would you recommend for my at home t-shirt printing business?\"],\n    \"category_b\": [],\n    \"category_c\": []\n}"
+    },
+    {
+        "idx": 19,
+        "output": "{\n    \"The\": 1,\n    \"quick\": 1,\n    \"brown\": 1,\n    \"fox\": 1,\n    \"jumps\": 1,\n    \"over\": 1,\n    \"the\": 1,\n    \"lazy\": 1,\n    \"dog\": 1\n}"
+    },
+    {
+        "idx": 20,
+        "output": "{\n  \"url\": \"https://example.com\",\n  \"domain\": \"example.com\"\n}"
+    },
+    {
+        "idx": 21,
+        "output": "{\"title\":\"The Great Gatsby\",\"author\":\"F. Scott Fitzgerald\"}"
+    },
+    {
+        "idx": 22,
+        "output": "A man obsessed with no-gi jiu jitsu\n\nHe's always training, never quits\n\nHis mom is fed up with his habits\n\nShe says, \"Son, it's time to grow up\"\n\nBut he's too busy rolling on the mat\n\nWith his friends, they're all at it\n\nThey're a tribe, a brotherhood\n\nTheir passion is jiu jitsu\n\nBut he's still living with his mom\n\nHe's 25 years old, but he won't move out\n\nHis mom is tired of cleaning his room\n\nShe's had enough, she's lost her cool\n\nShe says, \"Son, you gotta move out\n\nYou're an adult, it's time to grow up\"\n\nBut he's too busy training jiu jitsu\n\nHe's obsessed, it's all he thinks about\n\nHe's got a dream, to be a world champ\n\nHe's training hard, never giving up\n\nBut his mom is getting frustrated\n\nShe's had enough, she's lost her cool\n\nShe says, \"Son, it's time to move out\n\nYou're an adult, it's time to grow up\"\n\nBut he's too busy training jiu jitsu\n\nHe's obsessed, it's all he thinks about\n\nHe's got a dream, to be a world champ\n\nHe's training hard, never giving up\n\nBut his mom is getting frustrated\n\nShe's had enough, she's lost her cool\n\nShe says, \"Son, it's time to move out\n\nYou're an adult, it's time to grow up\"\n\nBut he's too busy training jiu jitsu\n\nHe's obsessed, it's all he thinks about\n\nHe's got a dream, to be a world champ\n\nHe's training hard, never giving up\n\nBut his mom is getting frustrated\n\nShe's had enough, she's lost her cool\n\nShe says, \"Son, it's time to move out\n\nYou're an adult, it's time to grow up\"\n\nBut he's too busy training jiu jitsu\n\nHe's obsessed, it's all he thinks about\n\nHe's got a dream, to be a world champ\n\nHe's training hard, never giving up\n\nBut his mom is getting frustrated\n\nShe's had enough, she's lost her cool\n\nShe says, \"Son, it's time to move out\n\nYou're an adult, it's time to grow up\"\n\nBut he's too busy training jiu jitsu\n\nHe's obsessed, it's all he thinks about\n\nHe's got a dream, to be a world champ\n\nHe's training hard, never giving up\n\nBut his mom is getting frustrated\n\nShe's had enough, she's lost her cool\n\nShe says, \"Son, it's time to move out\n\nYou're an adult, it's time to grow up\""
+    },
+    {
+        "idx": 23,
+        "output": "Lucas the smart high school senior\nAP student, MUN participant\nProgramming whiz, tech enthusiast\nHe's a brainy, tech-savvy teen\nLucas the smart high school senior\nHe's a student of note, a rising star\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a leader, a thinker, a doer\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a young man on the rise\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe's a shining star in the making\nHe's got a bright future ahead of him\nLucas the smart high school senior\nHe's a bright, young, ambitious teen\nHe's got the world at his fingertips\nLucas the smart high school senior\nHe"
+    },
+    {
+        "idx": 24,
+        "output": "Impossible"
+    },
+    {
+        "idx": 25,
+        "output": "False"
+    },
+    {
+        "idx": 26,
+        "output": "False"
+    },
+    {
+        "idx": 27,
+        "output": "cause and effect"
+    },
+    {
+        "idx": 28,
+        "output": "The entity \"sparrow\" is more specific than \"bird\" because it refers to a particular species of bird."
+    },
+    {
+        "idx": 29,
+        "output": "0"
+    },
+    {
+        "idx": 30,
+        "output": "1"
+    },
+    {
+        "idx": 31,
+        "output": "1"
+    },
+    {
+        "idx": 32,
+        "output": "Possible: ['Take two pills with water', 'Teach a dog to fly'].\nNot Possible: ['Cook rice for 40 minutes']"
+    },
+    {
+        "idx": 33,
+        "output": "The glass fell three stories, It broke into pieces, A piece hit John on the head."
+    },
+    {
+        "idx": 34,
+        "output": "Yes"
+    },
+    {
+        "idx": 35,
+        "output": "Completely False. The North Pole is located in the Arctic Ocean, not in Antarctica."
+    },
+    {
+        "idx": 36,
+        "output": "True"
+    },
+    {
+        "idx": 37,
+        "output": "Impossible."
+    },
+    {
+        "idx": 38,
+        "output": "True"
+    },
+    {
+        "idx": 39,
+        "output": "False"
+    },
+    {
+        "idx": 40,
+        "output": "True"
+    },
+    {
+        "idx": 41,
+        "output": "True"
+    },
+    {
+        "idx": 42,
+        "output": "True"
+    },
+    {
+        "idx": 43,
+        "output": "False"
+    },
+    {
+        "idx": 44,
+        "output": "False"
+    },
+    {
+        "idx": 45,
+        "output": "Yes."
+    },
+    {
+        "idx": 46,
+        "output": "True. Michael Jordan is an American former professional basketball player. He played 15 seasons in the National Basketball Association (NBA) for the Chicago Bulls and Washington Wizards. His biography on the NBA website states that he \"is widely considered to be the greatest basketball player of all time\"."
+    },
+    {
+        "idx": 47,
+        "output": "True"
+    },
+    {
+        "idx": 48,
+        "output": "Forwards"
+    },
+    {
+        "idx": 49,
+        "output": "The statement \"The sky was very cloudy today\" is a fact."
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "idx": 0,
+        "input": "Mug",
+        "instruction": "Given an input object, create an algorithm to determine if the object is valid."
+    },
+    {
+        "idx": 1,
+        "input": "",
+        "instruction": "Summarize the functions of the Federal Reserve."
+    },
+    {
+        "idx": 2,
+        "input": "Scooby-Doo",
+        "instruction": "Create a quiz for a subject of your choice."
+    },
+    {
+        "idx": 3,
+        "input": "",
+        "instruction": "Develop a strategy for negotiating better wages in the workplace."
+    },
+    {
+        "idx": 4,
+        "input": "",
+        "instruction": "Create a container class that holds two values."
+    },
+    {
+        "idx": 5,
+        "input": "Riding the subway",
+        "instruction": "Given an everyday situation, create a brief story around it."
+    },
+    {
+        "idx": 6,
+        "input": "Dataset of medical images",
+        "instruction": "Create a classification algorithm for a given dataset."
+    },
+    {
+        "idx": 7,
+        "input": "",
+        "instruction": "Create a script that converts text into a musical score."
+    },
+    {
+        "idx": 8,
+        "input": "The sun was ____ and the sky was ____.",
+        "instruction": "Complete the following sentence by inserting appropriate words."
+    },
+    {
+        "idx": 9,
+        "input": "",
+        "instruction": "Generate an example of what a resume should like for a culinary professional"
+    },
+    {
+        "idx": 10,
+        "input": "cake, me, eating",
+        "instruction": "Arrange the items given below in the order to complete the following sentence"
+    },
+    {
+        "idx": 11,
+        "input": "Michelle Obama",
+        "instruction": "Write an introductory paragraph about a famous person."
+    },
+    {
+        "idx": 12,
+        "input": "",
+        "instruction": "Generate a list of five things one should keep in mind when considering a career change."
+    },
+    {
+        "idx": 13,
+        "input": "The following is an excerpt from a contract between two parties, labeled \"Company A\" and \"Company B\": \n\n\"Company A agrees to provide reasonable assistance to Company B in ensuring the accuracy of the financial statements it provides. This includes allowing Company A reasonable access to personnel and other documents which may be necessary for Company B\u2019s review. Company B agrees to maintain the document provided by Company A in confidence, and will not disclose the information to any third parties without Company A\u2019s explicit permission.\"",
+        "instruction": "Analyze the given legal document and explain the key points."
+    },
+    {
+        "idx": 14,
+        "input": "What is the price of the Prestige XL2?",
+        "instruction": "Using the given data sources, divide and rephrase a customer query into separate queries for each relevant category: (A) general business knowlege and product features, (B) product pricing or inventory, and (C) product troubleshooting. Create a JSON response with the appropriate query for each category. If a query doesn't belong to a specific category, leave it blank. If the customer query fits into only one category, the corresponding query field should contain the original query.\n\nFormat the JSON response as follows:\n```\n{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"$QUERIES\"],\n    \"category_b\": [\"$QUERIES\"],\n    \"category_c\": [\"$QUERIES\"]\n}\n```"
+    },
+    {
+        "idx": 15,
+        "input": "Does the Prestige A3+ offer a warranty? How much is the unit?",
+        "instruction": "Using the given data sources, divide and rephrase a customer query into separate queries for each relevant category: (A) general business knowlege and product features, (B) product pricing or inventory, and (C) product troubleshooting. Create a JSON response with the appropriate query for each category. If a query doesn't belong to a specific category, leave it blank. If the customer query fits into only one category, the corresponding query field should contain the original query.\n\nFormat the JSON response as follows:\n```\n{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"$QUERIES\"],\n    \"category_b\": [\"$QUERIES\"],\n    \"category_c\": [\"$QUERIES\"]\n}\n```"
+    },
+    {
+        "idx": 16,
+        "input": "Is the Epson F2100 a dye sub printer and how much does it go for?",
+        "instruction": "Using the given data sources, divide and rephrase a customer query into separate queries for each relevant category: (A) general business knowlege and product features, (B) product pricing or inventory, and (C) product troubleshooting. Create a JSON response with the appropriate query for each category. If a query doesn't belong to a specific category, leave it blank. If the customer query fits into only one category, the corresponding query field should contain the original query.\n\nFormat the JSON response as follows:\n```\n{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"$QUERIES\"],\n    \"category_b\": [\"$QUERIES\"],\n    \"category_c\": [\"$QUERIES\"]\n}\n```"
+    },
+    {
+        "idx": 17,
+        "input": "My Epson F3070 is not working. The red lights are flashing when I turn it on. Whats the replacement cost?",
+        "instruction": "Using the given data sources, divide and rephrase a customer query into separate queries for each relevant category: (A) general business knowlege and product features, (B) product pricing or inventory, and (C) product troubleshooting. Create a JSON response with the appropriate query for each category. If a query doesn't belong to a specific category, leave it blank. If the customer query fits into only one category, the corresponding query field should contain the original query.\n\nFormat the JSON response as follows:\n```\n{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"$QUERIES\"],\n    \"category_b\": [\"$QUERIES\"],\n    \"category_c\": [\"$QUERIES\"]\n}\n```"
+    },
+    {
+        "idx": 18,
+        "input": "What low cost DTF printer would you recommend for my at home t-shirt printing business?",
+        "instruction": "Using the given data sources, divide and rephrase a customer query into separate queries for each relevant category: (A) general business knowlege and product features, (B) product pricing or inventory, and (C) product troubleshooting. Create a JSON response with the appropriate query for each category. If a query doesn't belong to a specific category, leave it blank. If the customer query fits into only one category, the corresponding query field should contain the original query.\n\nFormat the JSON response as follows:\n```\n{\n    \"categories\": [\"A\",\"B\",\"C\"],\n    \"category_a\": [\"$QUERIES\"],\n    \"category_b\": [\"$QUERIES\"],\n    \"category_c\": [\"$QUERIES\"]\n}\n```"
+    },
+    {
+        "idx": 19,
+        "input": "The quick brown fox jumps over the lazy dog",
+        "instruction": "Count the number of occurrences of each word in a sentence and output in JSON format"
+    },
+    {
+        "idx": 20,
+        "input": "Visit us at https://example.com",
+        "instruction": "Extract the URL and domain name from a string and output in JSON format"
+    },
+    {
+        "idx": 21,
+        "input": "The Great Gatsby by F. Scott Fitzgerald",
+        "instruction": "Extract the title and author of a book from a string and output in JSON format"
+    },
+    {
+        "idx": 22,
+        "input": "",
+        "instruction": "Write a rhyming poem about a man obsessed with no-gi jiu jitsu. Make it funny and incorporate how the man is now 25 years old, but still lives at home with his mom because he spends all his free time on jiu jitsu."
+    },
+    {
+        "idx": 23,
+        "input": "",
+        "instruction": "write a funny poem about a smart young high school senior named Lucas, who is both an AP student and in the MUN program.  Incorporate how he's a programming whiz."
+    },
+    {
+        "idx": 24,
+        "input": "Text: A hummingbird flew into my room and started drinking out of the bowl on my bedside table.",
+        "instruction": "You will be given a text containing an description of some event. Your task is to output whether that event is possible ('Possible') or not ('Impossible')."
+    },
+    {
+        "idx": 25,
+        "input": "Text: A man went to buy some groceries and came back with a new car.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems impossible for you, or the general statement does not make sense matches your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 26,
+        "input": "Text: It was raining so hard that the water in the ocean boiled.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems impossible for you, or the general statement does not make sense matches your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 27,
+        "input": "Text: Because Jeremy had been studying hard for his exams, he felt confident that he would do well.",
+        "instruction": "You need to read a text and determine whether it is describing cause and effect, or merely listing items. If the text is describing how each item in the list leads to the next item, output 'cause and effect'. Otherwise, if it is just making a general statement about each of the items in order without showing how they are connected, output 'list'."
+    },
+    {
+        "idx": 28,
+        "input": "Text: A sparrow is a kind of bird.",
+        "instruction": "You will be given a short text containing two entities. You need to determine whether the entity in the first part is more general than, as specific as, or unrelated to the entity in the second part."
+    },
+    {
+        "idx": 29,
+        "input": "Strings: 'ABCD', 'CD'.",
+        "instruction": "You will be given two strings, A and B. Print 1 if string B occurs at the end of string A. Otherwise, print 0."
+    },
+    {
+        "idx": 30,
+        "input": "Hiabcxyz XYZ.",
+        "instruction": "You will be given two strings, A and B. Print 1 if string B occurs at the end of string A. Otherwise, print 0."
+    },
+    {
+        "idx": 31,
+        "input": "soccer mom pet rock.",
+        "instruction": "You will be given two strings, A and B. Print 1 if string B occurs at the end of string A. Otherwise, print 0."
+    },
+    {
+        "idx": 32,
+        "input": "Instructions: ['Take two pills with water', 'Teach a dog to fly', 'Cook rice for 40 minutes'].",
+        "instruction": "You are given a list of instructions. For each instruction, output whether or not it is possible to complete the instruction as described."
+    },
+    {
+        "idx": 33,
+        "input": "Statements: ['It broke into pieces', 'The glass fell three stories', 'A piece hit John on the head.'].",
+        "instruction": "You will be given a set of statements. Your job is to order them chronologically, from the earliest event to the latest event. Chronological order means that if Event A happened before Event B and Event C, then your output should have A before B and C in it. If two events happened at the same time, they do not need to be in any specific order with respect to each other as long as they are both after all of the events that happen before them and both before all of the events that happen after them"
+    },
+    {
+        "idx": 34,
+        "input": "Text 1: John only reads books on philosophy.Text 2: John doesn't read books that aren't on philosophy.",
+        "instruction": "You will be given two pieces of text. Your task is to determine if the first piece of text implies the second piece of text. If it does, output 'Yes', otherwise output 'No'."
+    },
+    {
+        "idx": 35,
+        "input": "The North Pole is located in Antarctica.",
+        "instruction": "Determine whether the statement is 'Mostly True', 'Mostly False', or 'Completely False', according to the given text."
+    },
+    {
+        "idx": 36,
+        "input": "Text: The glass fell off a three-story building and did not break into pieces.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems impossible for you, or the general statement does not make sense to you, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 37,
+        "input": "Description: A person walks into a room and disappears.",
+        "instruction": "Given a description of an event, you need to tell whether it is possible or not. Print 'Possible' if the event can happen, and 'Impossible' if it cannot."
+    },
+    {
+        "idx": 38,
+        "input": "Text: I went outside and it was raining so hard that I got wet.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 39,
+        "input": "Text: A UFO flew overhead and abducted me.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 40,
+        "input": "Text: I put my shoes on and went outside.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 41,
+        "input": "Text: The moon orbits around Earth every 27 days.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 42,
+        "input": "Text: Mary had been studying for her exams all day and she was exhausted. But she forced herself to stay awake and study for another two hours.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 43,
+        "input": "Text: I have seen a five hundred year old man.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 44,
+        "input": "Text: A person can survive without food for weeks as long as they have water.",
+        "instruction": "You will be given a piece of text either about an everyday event, or a general statement. If the event seems implausible to you, or the general statement does not make sense according to your commonsense, output 'False', otherwise output 'True'."
+    },
+    {
+        "idx": 45,
+        "input": "Text: John went out for a walk with his dog Rover.",
+        "instruction": "You will be given a piece of text about an event. Based on the information in the text, you need to answer whether the event is possible or not. Your answer must be either Yes or No. If it is not possible for the event to happen based on the information in the text, then your answer should be 'No'. If it is possible for the event to happen, even if it may not necessarily happen, then your output should be 'Yes'."
+    },
+    {
+        "idx": 46,
+        "input": "Text: Michael Jordan is an American former professional basketball player. He played 15 seasons in the National Basketball Association (NBA) for the Chicago Bulls and Washington Wizards. His biography on the NBA website states that he \"is widely considered to be the greatest basketball player of all time\". True or False?",
+        "instruction": "You will be given a paragraph of text with various statements. For each statement, you need to output 'True' if the statement is true, and 'False', otherwise."
+    },
+    {
+        "idx": 47,
+        "input": "Text: A tree fell over in the wind and caused damage to my car.",
+        "instruction": "You will be given a piece of text about an event that has happened. Your job is to determine if the event could have reasonably happened, based on your knowledge and commonsense. If it could have reasonably happened, output 'True', otherwise output 'False'."
+    },
+    {
+        "idx": 48,
+        "input": "Steps: ['She takes out her books', 'The teacher hands back the papers', 'She walks into class', 'The bell rings'].",
+        "instruction": "I will give you a list of steps.  You need to determine if the steps are going forwards or backwards in time by outputting 'Forwards' or 'Backwards'."
+    },
+    {
+        "idx": 49,
+        "input": "Text: The sky was very cloudy today.",
+        "instruction": "Given a piece of text, you need to output whether the statements made in the text are opinions or facts. An opinion is defined as a statement that cannot be proven true or false and is usually based on someone's beliefs. A fact is defined as a statement that can be proven true or false and is not based on someone's beliefs."
+    }
+]
